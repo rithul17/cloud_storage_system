@@ -2,7 +2,6 @@ import socket
 import ssl
 import os
 import threading
-
 HOST = '192.168.100.4'
 PORT = 12345
 CERTFILE = 'server.crt'
